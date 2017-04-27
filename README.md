@@ -1,2 +1,2 @@
 # UI Toolkit
-A Simple UI toolkit to jumpstart your design projects.
+A simple UI toolkit to jumpstart your design projects.
